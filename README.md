@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jhinkoo331
-- 👀 I’m interested in LoL..
-- 🌱 I’m currently learning how to play vn well.
-- 💞️ I’m looking to collaborate on opening black
-- 📫 How to reach me, no way
+- 👀 I’m interested in ***
+- 🌱 I’m currently learning vn
+- 💞️ I’m looking to..
+- 📫 How to reach me, here
 
 <!---
 jhinkoo331/jhinkoo331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
