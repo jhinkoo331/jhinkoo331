@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jhinkoo331
-- 👀 I’m interested in ***
-- 🌱 I’m currently learning vn
-- 💞️ I’m looking to..
-- 📫 How to reach me, here
+- 👋 Hi, I’m jhin
+- 👀 Mail: 1577493664@qq.com
 
 <!---
 jhinkoo331/jhinkoo331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
