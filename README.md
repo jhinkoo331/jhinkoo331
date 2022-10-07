@@ -1,4 +1,6 @@
 - 👋 Hi, I’m jhin
+- 🎓 Graduated from UESTC
+- 💻 Majored in computer science
 - 👀 Mail: 1577493664@qq.com
 
 <!---
